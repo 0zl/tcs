@@ -1,0 +1,23 @@
+{
+  "name": "tcs",
+  "version": "0.1.0",
+  "description": "Temporary Conversation Storage",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0zl/tcs.git"
+  },
+  "keywords": [
+    "chatbot",
+    "convo",
+    "storage",
+    "temp"
+  ],
+  "author": "0zl (ize)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/0zl/tcs/issues"
+  },
+  "homepage": "https://github.com/0zl/tcs"
+}
